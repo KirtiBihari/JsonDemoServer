@@ -1,0 +1,53 @@
+{
+    "SocialPageList": [
+        {
+            "id":1,
+            "title": "Facebook",
+            "icon": "F",
+            "isVisible": true,
+            "url": "https://www.facebook.com"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "icon": "In",
+            "isVisible": true,
+            "url": "https://www.instagram.com"
+        },
+        {
+            "id": 3,
+            "title": "Twitter",
+            "icon": "F",
+            "isVisible": true,
+            "url": "https://www.twitter.com"
+        },
+        {
+            "id": 4,
+            "title": "Linkedin",
+            "icon": "L:",
+            "isVisible": true,
+            "url": "https://www.linkedin.com"
+        },
+        {
+            "id": 5,
+            "title": "Pinterest",
+            "icon": "P",
+            "isVisible": true,
+            "url": "https://www.pinterest.com"
+        },
+        {
+            "id": 6,
+            "title": "Google+",
+            "icon": "G",
+            "isVisible": true,
+            "url": "https://plus.google.com"
+        },
+        {
+            "id": 7,
+            "title": "Youtube",
+            "icon": "Y",
+            "isVisible": true,
+            "url": "https://www.youtube.com"
+        }
+    ]
+}
