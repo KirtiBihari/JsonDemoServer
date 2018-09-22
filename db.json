@@ -1,47 +1,48 @@
 {
     "SocialPageList": [
+	{
+            "id": 1,
+            "title": "Google+",
+            "icon": "G",
+            "isVisible": true,
+            "url": "https://plus.google.com"
+        },
         {
-            "id":1,
+            "id":2,
             "title": "Facebook",
             "icon": "F",
             "isVisible": true,
             "url": "https://www.facebook.com"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Instagram",
             "icon": "In",
             "isVisible": true,
             "url": "https://www.instagram.com"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Twitter",
             "icon": "F",
             "isVisible": true,
             "url": "https://www.twitter.com"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Linkedin",
             "icon": "L:",
             "isVisible": true,
             "url": "https://www.linkedin.com"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Pinterest",
             "icon": "P",
             "isVisible": true,
             "url": "https://www.pinterest.com"
         },
-        {
-            "id": 6,
-            "title": "Google+",
-            "icon": "G",
-            "isVisible": true,
-            "url": "https://plus.google.com"
-        },
+        
         {
             "id": 7,
             "title": "Youtube",
